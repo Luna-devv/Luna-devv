@@ -6,7 +6,7 @@
 - ⌨️ I’m a professional front-end and a bad back-end developer. (trust me)
 
 ### Current Projects
-- 💻 Website   | [xyna.space](https://l.xyna.space) [Dev]
+- 💻 Website   | [bot.xyna.space](https://bot.xyna.space) [Dev]
 - 💻 File host | [Tixte.com](https://noice.link/tixty) [Mod]
 - 💻 Profiles  | [caards.me](https://caards.me) [Mod]
 
