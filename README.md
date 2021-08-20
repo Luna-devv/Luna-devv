@@ -18,5 +18,5 @@
 - 👤 [@Anime forever](https://github.com/Anime-Forevere) - for being my sister.
 - 👤 [@FlamexDev](https://github.com/Flamexdev) - helping me out if I need help.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luna_dev_&theme=dracula&layout=compact)
+[!willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luna_dev_&theme=dracula&layout=compact)
 
