@@ -11,7 +11,7 @@
 - 💻 Profiles  | [caards.me](https://caards.me) [Mod]
 
 ### Contact me
-- 📫 Reach me on Discord: **[Luna#8080](https://discord.com/users/821472922140803112)**
+- 📫 Reach me on Discord: **[Luni#8888](https://discord.com/users/821472922140803112)**
 - 📫 Reach me via eMail: **[hello@xyna.space](mailto:hello@xyna.space)**
 
 ### Thanks to
