@@ -19,5 +19,6 @@
 - 👤 [@FlamexDev](https://github.com/Flamexdev) - helping me out if I need help.
 <br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luna_dev_&theme=dracula&layout=compact)](https://wakatime.com/@Luna_dev_)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luna_dev_&theme=dracula&layout=compact)](https://wakatime.com/@Luna_dev_)<br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821472922140803112)](https://discord.com/users/821472922140803112)
 
