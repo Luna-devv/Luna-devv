@@ -2,7 +2,7 @@
 ### About me
 - 👩 I'm 14 Years old.
 - 🏴󠁡󠁴󠀳󠁿 I'm live on [Eatrh](https://www.google.com/maps/).
-- 🌱 I’m currently learning `JavaScript`, `hzml` and `css`.
+- 🌱 I’m currently learning `JavaScript`, `html` and `css`.
 - ⌨️ I’m a professional front-end and a bad back-end developer. (trust me)
 
 ### Current Projects
