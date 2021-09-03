@@ -8,7 +8,7 @@
 <br />
 
 ### Projects
-`📁` **Tixte:** A privacy-friendly file [host.gg/tixte](https://discord.gg/cFZM3EJ3hS). <br />
+`📁` **Tixte:** A privacy-friendly file host [.gg/tixte](https://discord.gg/cFZM3EJ3hS). <br />
 `🤖` **DBLeu:** Your discord bot list [dbleu.org](https://discord-botlist.eu). <br />
 `💻` **Ariabyte:** We do stuff [.gg/profile](https://discord.gg/aQSaYe7XKG). <br />
 <br />
