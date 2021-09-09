@@ -1,10 +1,10 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Heyhow girls** （っ＾▿＾）
 
 ### About me
-`🥰` **Name:** [@Luna](https://xyna.space/@Luna) <br />
+`🥰` **Name:** Luna <br />
 `💖` **Pronouns:** she/her & any <br />
 `🎉` **Birthday:** 17th April, 2007 <br />
-`🔗` **Caards:** [crds.cc/Luna](https://crds.cc/Luna) <br />
+`🔗` **Caards:** [l.xyna.space](https://l.xyna.space) <br />
 <br />
 
 ### Projects
