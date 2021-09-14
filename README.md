@@ -10,7 +10,6 @@
 ### Projects
 `📁` **Tixte:** A privacy-friendly file host [.gg/tixte](https://discord.gg/cFZM3EJ3hS). <br />
 `🤖` **DBLeu:** Your discord bot list [dbleu.org](https://discord-botlist.eu). <br />
-`💻` **Ariabyte:** We do stuff [.gg/profile](https://discord.gg/aQSaYe7XKG). <br />
 <br />
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821472922140803112?theme=dark&bg=242430&animated=true&idleMessage=Probably%20sleepingng%20right%20now..)](https://discord.com/users/821472922140803112)
