@@ -8,7 +8,7 @@
 
 ### Other
 `💸` **Support:** If you want to support me, you can buy me a coffee at [buymeacoffee.com/Lunisiaa](https://buymeacoffee.com/Lunisiaa) <br />
-`💻` **Discord:** Check out our discord if you want to be informed about new things and chat nicely here [https://xyna.space/support](https://xyna.space/support)
+`💻` **Discord:** Check out our discord if you want to be informed about new things and chat nicely here [xyna.space/support](https://xyna.space/support)
 
 ### Projects
 `📁` **Tixte:** A privacy-friendly file host [.gg/tixte](https://discord.gg/cFZM3EJ3hS) <br />
