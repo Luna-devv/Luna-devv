@@ -4,7 +4,7 @@
 `🥰` **Name:** Luna <br />
 `💖` **Pronouns:** she/her & any <br />
 `🎉` **Birthday:** 17th April, 2007 <br />
-`🔗` **Website:** [xyna.space/@Luna](https://xyna.space/@Luna) <br />
+`🔗` **Website:** [xyna.space/@Luna](https://xyna.space/@Luna?ref=github.com) <br />
 
 ### Other
 `💸` **Support:** If you want to support me, you can buy me a coffee at [buymeacoffee.com/Lunisiaa](https://buymeacoffee.com/Lunisiaa) <br />
