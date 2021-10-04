@@ -2,12 +2,13 @@
 
 `💖` My pronouns are **@she/her** and **@any** <br />
 `📜` I am a hobby Full-stack developer. <br>
-`🌏`I live on Earth. <br>
+`🌏` I live on Earth. <br>
 `💜` I am Lesbian. &lt;3 <br />
 `🎉` I am 14y/o. <br>
 <br />
 `🤖` [discord-botlist.eu](https://discord-botlist.eu/?ref=xyna.space/@Luna), your discord bot list. <br>
 `📁` [tixte](https://discord.gg/cFZM3EJ3hS), a free and easy way to store your files in the cloud. <br>
 `🎁` [dasu](https://discord.com/oauth2/authorize?client_id=525748238255390721&permissions=322785&scope=bot%20applications.commands), utilize powerful rules and control your giveaways. <br />
+<br />
 <br />
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821472922140803112?theme=dark&bg=242430&animated=true&idleMessage=Probably%20sleepingng%20right%20now..)](https://discord.com/users/821472922140803112)
