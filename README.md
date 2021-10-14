@@ -2,7 +2,7 @@
 
 `💖` My pronouns are **@she/her** and **@any** <br />
 `📜` I am a hobby Full-stack developer. <br>
-`🔗` My shiny site: [xyna.space/@Luna](https://xyna.space/@Luna?ref=github.com). <br>
+`🔗` My shiny site: [luna.lolis.life](https://xyna.space/@Luna?ref=github.com). <br>
 `🌏` I live on Earth. <br>
 `💜` I am Lesbian. &lt;3 <br />
 `🎉` I am 14y/o. <br>
