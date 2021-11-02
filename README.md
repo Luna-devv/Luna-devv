@@ -13,5 +13,3 @@
 <br />
 <br />
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821472922140803112?theme=dark&bg=242430&animated=true&idleMessage=Probably%20sleepingng%20right%20now..)](https://discord.com/users/821472922140803112)
-
-ODMyOTc3MDAyNTUzMTQ3NDM0.YHroSQ.IfCtdZwy_gbnp1onHFtFau8sZhg
