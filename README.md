@@ -1,10 +1,10 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Heyhow girls** （っ＾▿＾）
 
-`💖` My pronouns are **@she/her** and **@any** <br />
-`📜` I am a hobby Full-stack developer. <br>
-`🔗` My shiny site: [luna.lolis.life](https://xyna.space/@Luna?ref=github.com). <br>
-`🌏` I live on Earth. <br>
-`💜` I am Lesbian. &lt;3 <br />
+`💖` I mainly listen to the pronouns and **@she/her** and **@they/them**. <br />
+`📜` I am a hobby Software Engineer and LGBTQ+ Activist. <br>
+`🔗` My website is [luna.lolis.life](https://xyna.space/@Luna?ref=github.com). <br>
+`🌏` I live in Austria near Vienna. <br>
+`💜` I am a girl and Lesbian with love. &lt;3 <br />
 `🎉` I am 14y/o. <br>
 <br />
 `🤖` [discord-botlist.eu](https://discord-botlist.eu/?ref=xyna.space/@Luna), your discord bot list. <br>
