@@ -2,7 +2,7 @@
 
 `💖` I mainly listen to the pronouns and **@she/her** and **@they/them**. <br />
 `📜` I am a hobby Software Engineer and LGBTQ+ Activist. <br>
-`🔗` My website is [luna.lolis.life](https://xyna.space/@Luna?ref=github.com). <br>
+`🔗` My website is [waya.one](https://waya.one). <br>
 `🌏` I live in Austria near Vienna. <br>
 `💜` I am a girl and Lesbian with love. &lt;3 <br />
 `🎉` I am 14y/o. <br>
