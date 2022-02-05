@@ -1,6 +1,7 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Heyhow fellow Humans** (\*/ω＼*)
 
-I'm **Luna**, born at **17th of April 2007** and live in **Austria** near Vienna.. I'm some hobby **Software Engineer** and **LGBTQ+ Activist**. <br /> I self taught me the **MERN** stack with a bit of help from friends and now I work with this stack everywhere!
+I'm **Luna**, born at **17th of April 2007** and live in **Austria** near Vienna.. I'm some hobby **Software Engineer** and **LGBTQ+ Activist**. <br /> I self taught me the **MERN** stack with a bit of help from friends and now I work with this stack everywhere! <br />
+Learn more at [waya.one](https://waya.one/) and join my [Discord Server](https://waya.one/go/discord).
 
 ### 🪄 Languages & Frameworks
 * JavaScript
@@ -17,7 +18,6 @@ I'm **Luna**, born at **17th of April 2007** and live in **Austria** near Vienna
 - [dasu.gifts](https://discord.com/oauth2/authorize?client_id=525748238255390721&permissions=322785&scope=bot%20applications.commands)- Utilize powerful rules and control your giveaways with no limitations. <br />
 - [pronouns](https://prms.waya.one)- A Simple way to add your Pronouns and Sexualities in Discord. <br />
 <br />
-Learn more at [waya.one](https://waya.one/) and join my [Discord Server](https://waya.one/go/discord).
 
 ### Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luna-devv&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)]()
