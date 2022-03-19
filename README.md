@@ -23,4 +23,6 @@ Learn more at [waya.one](https://waya.one/) and join my [Discord Server](https:/
 ### Stats
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luna-devv&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)]()
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821472922140803112?theme=dark&bg=0D1117&animated=true&idleMessage=Probably%20sleeping%20right%20now..)](https://discord.com/users/821472922140803112)
+<a href="https://top.gg/bot/857230367350063104" style="width: 20rem">
+  <img src="https://top.gg/api/widget/857230367350063104.svg">
+</a>
