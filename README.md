@@ -1,7 +1,13 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Heyhow fellow Humans** (\*/ω＼*)
 
-I'm **Luna**, born at **17th of April 2007** and live in **Austria** near Vienna.. I'm some hobby **Software Engineer** and **LGBTQ+ Activist**. <br /> I self taught me the **MERN** stack with a bit of help from friends and now I work with this stack everywhere! <br />
-Learn more at [waya.one](https://waya.one/) and join my [Discord Server](https://waya.one/go/discord).
+I'm **Luna**, born at **17th of April** and currently live in **Austria** near Vienna.. I'm some hobby **Software Engineer** and **LGBTQ+ Activist**. <br />
+My pronouns are **She/Her**, in my free time I  love to **code Discord bots**, websites in general and I'm a **single developer**. <br />
+
+I'm a proud **Lesbian** and currently have a crush haha <br />
+My Portfolio can be found at __https://lunish.gay__.
+
+I currently mainly work at my **heart project @Waya#0325** - a multi-function bot with the main weight on **Pronouns** and **Server Moderation**. <br />
+You can learn more about it at __<https://waya.one>__ <br />
 
 ### 🪄 Languages & Frameworks
 * JavaScript
