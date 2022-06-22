@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> **Heyhow fellow Humans** (\*/ω＼*)
+## 👋 **Heyhow fellow Humans** (\*/ω＼*)
 
 I'm **Luna**, born at **17th of April** and currently live in **Austria** near Vienna.. I'm some hobby **Software Engineer** and **LGBTQ+ Activist**. <br />
 My pronouns are **She/Her**, in my free time I  love to **code Discord bots**, websites in general and I'm a **single developer**. <br />
@@ -21,9 +21,8 @@ You can learn more about it at __<https://waya.one>__ <br />
 ### My projects
 - [discord-botlist.eu](https://discord-botlist.eu) - We give you the ailability to apply and give your bot a page on our site. <br />
 - [tixte.com](https://discord.gg/cFZM3EJ3hS) - The fast, free and easy way to upload and store your files in the cloud. <br>
-- [dasu.gifts](https://discord.com/oauth2/authorize?client_id=525748238255390721&permissions=322785&scope=bot%20applications.commands)- Utilize powerful rules and control your giveaways with no limitations. <br />
-- [pronouns](https://prbs.waya.one) - A Simple way to add your Pronouns and Sexualities in Discord. <br />
-- [waya](https://waya.one/go/topgg) - A simple and high quality multi-function bot with Pronouns Select, Starboard, Logging, Welcome and Ticketing. <br />
+- [pronouns](https://prns.waya.one) - A Simple way to add your Pronouns and Sexualities in Discord. <br />
+- [waya](https://waya.one) - A simple and high quality multi-function bot with Pronouns Select, Starboard, Logging, Welcome and Ticketing. <br />
 <br />
 
 ### Stats
