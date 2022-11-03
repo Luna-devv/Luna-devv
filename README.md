@@ -10,7 +10,7 @@ I currently mainly work at my **heart project @Waya#0325** - a multi-function bo
 You can learn more about it at __<https://waya.one>__ <br />
 
 ### 🪄 Languages & Frameworks
-* JavaScript, TypeScript
+* JavaScript, TypeScript, Go
 * Node.JS
 * MongoDB
 * HTML & CSS
