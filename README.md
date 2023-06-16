@@ -1,33 +1,33 @@
-## 👋 **Heyhow fellow Humans** (\*/ω＼*)
+# 👋 **Heyhow fellow Humans** (\*/ω＼*)
 
-I'm **Luna**, born at **17th of April** and currently live in **Austria** near Vienna.. I'm some hobby **Software Engineer** and **LGBTQ+ Activist**. <br />
-My pronouns are **She/Her**, in my free time I  love to **code Discord bots**, websites in general and I'm a **single developer**. <br />
+**`Fullswag Developer`**
 
-I'm a proud **Lesbian** and currently have a crush haha <br />
-My Portfolio can be found at __https://lunish.gay__.
+My name is Luna and I live in Austria, close to the beautiful city of Vienna. I am passionate about programming and love working with different languages, mainly TypeScript. I enjoy creating a wide range of things, from [websites](https://lunish.nl) and [Discord bots](https://www.waya.one) to small utilities.
 
-I currently mainly work at my **heart project @Waya#0325** - a multi-function bot with the main weight on **Pronouns** and **Server Moderation**. <br />
-You can learn more about it at __<https://waya.one>__ <br />
+<p align="left">
+      <a href="https://www.youtube.com/@wayabot?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClWBeVcz5LUmcCN1gHG_GCg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@wayabot/videos">
+         <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClWBeVcz5LUmcCN1gHG_GCg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/Luna-devv?tab=followers">
+         <img alt="followers" title="Follow me" src="https://custom-icon-badges.demolab.com/github/followers/Luna-devv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Luna-devv?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Luna-devv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+   
+---
 
-### 🪄 Languages & Frameworks
-* JavaScript, TypeScript, Go
-* Node.JS
-* MongoDB
-* HTML & CSS
-* React, Next.JS
-* Express
+### 🧰 Technologies and Tools
 
+<div>
+  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,js,ts,nodejs,mongodb,express,react,next,cloudflare,git,github,linux" alt="Technologies and Tools" />
+</div>
 
-### My projects
+### ✏️ Projects
 - [discord-botlist.eu](https://discord-botlist.eu) - We give you the ailability to apply and give your bot a page on our site. <br />
-- [tixte.com](https://discord.gg/cFZM3EJ3hS) - The fast, free and easy way to upload and store your files in the cloud. <br>
-- [pronouns](https://prns.waya.one) - A Simple way to add your Pronouns and Sexualities in Discord. <br />
-- [waya](https://waya.one) - A simple and high quality multi-function bot with Pronouns Select, Starboard, Logging, Welcome and Ticketing. <br />
+- [Tixte](https://discord.gg/cFZM3EJ3hS) - The fast, free and easy way to upload and store your files in the cloud. <br>
+- [Pronouns](https://prns.waya.one) - Embrace Your Identity: Shine Bright with Inclusive Pronouns in Discord, Express Your Gender & Sexuality Effortlessly! <br />
+- [Waya](https://waya.one) - A versatile and user-friendly bot for Discord servers, offering features such as Pronoun Select, Starboarding, Ticketing, Logging and more. <br />
+- [Auditional Text](https://get.waya.one/tts) - Unlock the Power of Text-to-Speech: Generate MP3's or Join Voice Chat with Expressive Speech! <br />
+- [Textional Voice](https://get.waya.one/tts) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! Made by team Waya core <br />
 <br />
-
-### Stats
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luna-devv&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)]()
-
-<a href="https://top.gg/bot/857230367350063104" style="width: 20rem">
-  <img src="https://top.gg/api/widget/857230367350063104.svg">
-</a>
