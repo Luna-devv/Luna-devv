@@ -27,7 +27,7 @@ My name is Luna and I live in Austria, close to the beautiful city of Vienna. I 
 - [discord-botlist.eu](https://discord-botlist.eu) - We give you the ailability to apply and give your bot a page on our site. <br />
 - [Tixte](https://discord.gg/cFZM3EJ3hS) - The fast, free and easy way to upload and store your files in the cloud. <br>
 - [Pronouns](https://prns.waya.one) - Embrace Your Identity: Shine Bright with Inclusive Pronouns in Discord, Express Your Gender & Sexuality Effortlessly! <br />
-- [Waya](https://waya.one) - A versatile and user-friendly bot for Discord servers, offering features such as Pronoun Select, Starboarding, Ticketing, Logging and more. <br />
+- [Waya](https://waya.one) - A versatile and user-friendly bot for Discord, offering features such as Pronoun Select, Starboarding, Ticketing, Logging and more. <br />
 - [Auditional Text](https://get.waya.one/tts) - Unlock the Power of Text-to-Speech: Generate MP3's or Join Voice Chat with Expressive Speech! <br />
-- [Textional Voice](https://get.waya.one/tts) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! Made by team Waya core <br />
+- [Textional Voice](https://get.waya.one/tts) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! <br />
 <br />
