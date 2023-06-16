@@ -2,7 +2,7 @@
 
 **`Fullswag Developer`**
 
-My name is Luna and I live in Austria, close to the beautiful city of Vienna. I am passionate about programming and love working with different languages, mainly TypeScript. I enjoy creating a wide range of things, from [websites](https://lunish.nl) and [Discord bots](https://www.waya.one) to small utilities.
+My name is Luna, I am passionate about programming and love working with different languages, mainly TypeScript. I enjoy creating a wide range of things, from [websites](https://lunish.nl) and [Discord bots](https://www.waya.one) to small utilities.
 
 <p align="left">
       <a href="https://www.youtube.com/@wayabot?sub_confirmation=1">
