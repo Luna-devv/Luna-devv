@@ -31,3 +31,5 @@ My name is Luna, I am passionate about programming and love working with differe
 - [Auditional Text](https://get.waya.one/tts) - Unlock the Power of Text-to-Speech: Generate MP3's or Join Voice Chat with Expressive Speech! <br />
 - [Textional Voice](https://get.waya.one/tts) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! <br />
 <br />
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I6AFVAP)
