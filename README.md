@@ -19,9 +19,9 @@ My name is Luna, I am passionate about programming and love working with differe
 
 ### 🧰 Technologies and Tools
 
-<div>
-  <img src="https://skillicons.dev/icons?i=discord,vscode,html,css,js,ts,nodejs,mongodb,express,react,next,cloudflare,git,github,linux" alt="Technologies and Tools" />
-</div>
+<a href="https://wamellow.com" title="Click Me">
+      <img src="https://skillicons.dev/icons?i=linux,bash,cloudflare,discord,bots,docker,git,github,vscode,go,js,ts,nodejs,express,react,nextjs,tailwind,html,css,mongodb,postgres,redis,postman,md,regex&perline=13" />
+</a>
 
 ### ✏️ Projects
 - [discord-botlist.eu](https://discord-botlist.eu) - We give you the ailability to apply and give your bot a page on our site. <br />
