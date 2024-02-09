@@ -24,12 +24,13 @@ My name is Luna, I am passionate about programming and love working with differe
 </a>
 
 ### ✏️ Projects
+- [Wamellow](https://wamellow.com) - Engage with leaderboards, ranks, starboard, and welcoming atmosphere. Dive into anime discussions, enjoy free image AI, AI moderation, and custom commands, unleash the power of text-to-speech (TTD)
 - [discord-botlist.eu](https://discord-botlist.eu) - We give you the ailability to apply and give your bot a page on our site. <br />
 - [Tixte](https://discord.gg/cFZM3EJ3hS) - The fast, free and easy way to upload and store your files in the cloud. <br>
 - [Pronouns](https://prns.waya.one) - Embrace Your Identity: Shine Bright with Inclusive Pronouns in Discord, Express Your Gender & Sexuality Effortlessly! <br />
 - [Waya](https://waya.one) - A versatile and user-friendly bot for Discord, offering features such as Pronoun Select, Starboarding, Ticketing, Logging and more. <br />
 - [Auditional Text](https://get.waya.one/tts) - Unlock the Power of Text-to-Speech: Generate MP3's or Join Voice Chat with Expressive Speech! <br />
-- [Textional Voice](https://get.waya.one/tts) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! <br />
+- [Textional Voice](https://get.waya.one/vtt) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! <br />
 <br />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I6AFVAP)
