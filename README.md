@@ -2,12 +2,12 @@
 
 **`Fullswag Developer`**
 
-My name is Luna, I am passionate about programming and love working with different languages, mainly TypeScript. I enjoy creating a wide range of things, from [websites](https://lunish.nl) and [Discord bots](https://www.waya.one) to small utilities.
+My name is Luna, I am an autistic full-stack developer, I am passionate about programming and love working with different languages, mainly TypeScript. I enjoy creating a wide range of things, from [websites](https://lunish.nl) and [Discord Bots](https://wamellow.com) to small utilities.
 
 <p align="left">
-      <a href="https://www.youtube.com/@wayabot?sub_confirmation=1">
+      <a href="https://www.youtube.com/@wamellow?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClWBeVcz5LUmcCN1gHG_GCg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@wayabot/videos">
+      <a href="https://www.youtube.com/@wamellow/videos">
          <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClWBeVcz5LUmcCN1gHG_GCg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Luna-devv?tab=followers">
          <img alt="followers" title="Follow me" src="https://custom-icon-badges.demolab.com/github/followers/Luna-devv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -18,19 +18,25 @@ My name is Luna, I am passionate about programming and love working with differe
 ---
 
 ### 🧰 Technologies and Tools
-
 <a href="https://wamellow.com" title="Click Me">
-      <img src="https://skillicons.dev/icons?i=linux,bash,cloudflare,discord,bots,docker,git,github,vscode,go,js,ts,nodejs,express,react,nextjs,tailwind,html,css,mongodb,postgres,redis,postman,md,regex&perline=13" />
+      <img src="https://skillicons.dev/icons?i=apple,linux,debian,redhat,arch" /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,bash,go,java,js,ts,py,lua,md,regex" /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,pnpm,discordjs,express,vite,react,nextjs,tailwind,mongodb,postgres,redis" /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,workers,sentry,bots,gmail" /><br />
+      <img src="https://skillicons.dev/icons?i=vim,vscode,idea" /><br />
+      <img src="https://skillicons.dev/icons?i=cloudflare,aws,discord" /><br />
 </a>
 
 ### ✏️ Projects
-- [Wamellow](https://wamellow.com) - Engage with leaderboards, ranks, starboard, and welcoming atmosphere. Dive into anime discussions, enjoy free image AI, AI moderation, and custom commands, unleash the power of text-to-speech (TTD)
+- [Wamellow](https://wamellow.com) - Engage in leaderboards, starboards, and a welcoming atmosphere. Dive into /anime's, free /image Ai, and the power of Text-to-Speech. Stay updated with dailyposts and receive YouTube notifications! <br />
+- [Waya](https://waya.one) - A versatile and user-friendly bot for Discord, offering features such as Pronouns, Starboarding, Ticketing, Logging and more. <br />
+- [Auditional Text](https://get.waya.one/tts) - Unlock the Power of Text-to-Speech: Generate MP3's or Join Voice Chat with Expressive Speech! <br />
+- [Pronouns](https://prns.waya.one) - Embrace Your Identity: Shine Bright with Inclusive Pronouns in Discord, Express Your Gender & Sexuality Effortlessly! <br />
+- [Textional Voice](https://get.waya.one/vtt) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! <br />
+
+
 - [discord-botlist.eu](https://discord-botlist.eu) - We give you the ailability to apply and give your bot a page on our site. <br />
 - [Tixte](https://discord.gg/cFZM3EJ3hS) - The fast, free and easy way to upload and store your files in the cloud. <br>
-- [Pronouns](https://prns.waya.one) - Embrace Your Identity: Shine Bright with Inclusive Pronouns in Discord, Express Your Gender & Sexuality Effortlessly! <br />
-- [Waya](https://waya.one) - A versatile and user-friendly bot for Discord, offering features such as Pronoun Select, Starboarding, Ticketing, Logging and more. <br />
-- [Auditional Text](https://get.waya.one/tts) - Unlock the Power of Text-to-Speech: Generate MP3's or Join Voice Chat with Expressive Speech! <br />
-- [Textional Voice](https://get.waya.one/vtt) - Unleash the Power of Voice-to-Text: Real-Time Recording and Transcription for Discord Voice Channels! <br />
 <br />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I6AFVAP)
