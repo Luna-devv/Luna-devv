@@ -1,14 +1,16 @@
 # 👋 **Heyhow fellow Humans** (\*/ω＼*)
 
-**`Fullswag Developer`**
+**`Fullswag Developer`** *@ [lunish.nl](https://lunish.nl)*
 
 My name is Luna, I am an autistic full-stack developer, I am passionate about programming and love working with different languages, mainly TypeScript. I enjoy creating a wide range of things, from [websites](https://lunish.nl) and [Discord Bots](https://wamellow.com) to small utilities.
 
+I'm also known as `mwlica` on other platforms, like [Discord](https://discord.gg/yYd6YKHQZH)!
+
 <p align="left">
-      <a href="https://www.youtube.com/@wamellow?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClWBeVcz5LUmcCN1gHG_GCg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@wamellow/videos">
-         <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClWBeVcz5LUmcCN1gHG_GCg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube subscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UClWBeVcz5LUmcCN1gHG_GCg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://bsky.app/profile/lunish.nl">
+         <img alt="bluesky" title="lunish.nl on Bluesky" src="https://custom-icon-badges.demolab.com/badge/bluesky-@lunish.nl-blue?style=for-the-badge&logo=bsky&logoColor=white"/></a> 
       <a href="https://github.com/Luna-devv?tab=followers">
          <img alt="followers" title="Follow me" src="https://custom-icon-badges.demolab.com/github/followers/Luna-devv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Luna-devv?tab=repositories&sort=stargazers">
@@ -28,6 +30,7 @@ My name is Luna, I am an autistic full-stack developer, I am passionate about pr
 </a>
 
 ### ✏️ Projects
+- [Chat](https://github.com/Luna-devv/chat) - Simple, Discord-like, chat app, written in Go-lang and Typescript. <br />
 - [Wamellow](https://wamellow.com) - Engage in leaderboards, starboards, and a welcoming atmosphere. Dive into /anime's, free /image Ai, and the power of Text-to-Speech. Stay updated with dailyposts and receive YouTube notifications! <br />
 - [Waya](https://waya.one) - A versatile and user-friendly bot for Discord, offering features such as Pronouns, Starboarding, Ticketing, Logging and more. <br />
 - [Auditional Text](https://get.waya.one/tts) - Unlock the Power of Text-to-Speech: Generate MP3's or Join Voice Chat with Expressive Speech! <br />
