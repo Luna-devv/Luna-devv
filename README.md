@@ -1,6 +1,6 @@
 # 👋 **Heyhow fellow Humans** (\*/ω＼*)
 
-**`Fullswag Developer`** *@ [lunish.nl](https://lunish.nl)*
+**`Fullswag Developer`** *@ [shi.gg](https://shi.gg)*
 
 My name is Luna, I am an autistic full-stack developer, I am passionate about programming and love working with different languages, mainly TypeScript. I enjoy creating a wide range of things, from [websites](https://lunish.nl) and [Discord Bots](https://wamellow.com) to small utilities.
 
